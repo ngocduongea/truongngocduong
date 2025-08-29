@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "Telegram",
             icon: "src/images/icons/tele-icon.png",
             account: "@ngocduongea",
-            link: "https://www.tiktok.com/@ngocduongea"
+            link: "#"
         },
         {
             name: "TikTok",

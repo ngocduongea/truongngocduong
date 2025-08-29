@@ -23,13 +23,13 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: "TikTok",
             icon: "src/images/icons/douyin-icon.png",
-            account: "@ngocduongea",
+            account: "Tiktok ID: @ngocduongea",
             link: "https://www.tiktok.com/@ngocduongea"
         },
         {
             name: "Douyin",
             icon: "src/images/icons/douyin-icon.png",
-            account: "@ngocduongea",
+            account: "Douyin ID: @ngocduongea",
             link: "https://www.douyin.com/user/MS4wLjABAAAADbISoTKPagAo4nINVouEe_wD0wWeFA01rD8-9EZLDrhEePvKsIaQKegShR-tQilk?from_tab_name=main"
         }
     ];

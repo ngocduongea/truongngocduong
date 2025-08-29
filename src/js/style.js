@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: "Discord",
             icon: "src/images/icons/discord-icon.png",
-            account: "Telegarm User: @ngocduongg",
+            account: "Discord User: @ngocduongg",
             link: "#"
         },
         {

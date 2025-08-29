@@ -60,19 +60,19 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "MB Bank",
             icon: "src/images/icons/mb-icon.png",
             qr: "src/images/qr/mb.png",
-            account: "9704 1234 5678 9999"
+            account: "44 6688 9990 9999"
         },
         {
             name: "MoMo",
             icon: "src/images/icons/momo-icon.png",
             qr: "src/images/qr/momo.png",
-            account: "0123 456 789"
+            account: "0395882961"
         },
         {
             name: "ACB",
             icon: "src/images/icons/acb-icon.png",
             qr: "src/images/qr/acb.png",
-            account: "1234567890"
+            account: "20057611"
         }
     ];
 

@@ -3,32 +3,32 @@ document.addEventListener('DOMContentLoaded', () => {
     const socialData = [
         {
             name: "Facebook",
-            icon: "/src/images/icons/fb-icon.png",
+            icon: "src/images/icons/fb-icon.png",
             account: "@yourfacebook",
             extra: "User: Trương Ngọc Dương",
             link: "https://facebook.com/yourprofile"
         },
         {
             name: "Discord",
-            icon: "/src/images/icons/discord-icon.png",
+            icon: "src/images/icons/discord-icon.png",
             account: "@yourdiscord",
             link: "#"
         },
         {
             name: "Telegram",
-            icon: "/src/images/icons/tele-icon.png",
+            icon: "src/images/icons/tele-icon.png",
             account: "@yourtelegram",
             link: "#"
         },
         {
             name: "TikTok",
-            icon: "/src/images/icons/douyin-icon.png",
+            icon: "src/images/icons/douyin-icon.png",
             account: "@yourtiktok",
             link: "#"
         },
         {
             name: "Douyin",
-            icon: "/src/images/icons/douyin-icon.png",
+            icon: "src/images/icons/douyin-icon.png",
             account: "@yourdouyin",
             link: "#"
         }
@@ -58,20 +58,20 @@ document.addEventListener('DOMContentLoaded', () => {
     const qrData = [
         {
             name: "MB Bank",
-            icon: "/src/images/icons/mb-icon.png",
-            qr: "/src/images/qr/mb.png",
+            icon: "src/images/icons/mb-icon.png",
+            qr: "src/images/qr/mb.png",
             account: "9704 1234 5678 9999"
         },
         {
             name: "MoMo",
-            icon: "/src/images/icons/momo-icon.png",
-            qr: "/src/images/qr/momo.png",
+            icon: "src/images/icons/momo-icon.png",
+            qr: "src/images/qr/momo.png",
             account: "0123 456 789"
         },
         {
             name: "ACB",
-            icon: "/src/images/icons/acb-icon.png",
-            qr: "/src/images/qr/acb.png",
+            icon: "src/images/icons/acb-icon.png",
+            qr: "src/images/qr/acb.png",
             account: "1234567890"
         }
     ];

@@ -4,33 +4,33 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: "Facebook",
             icon: "src/images/icons/fb-icon.png",
-            account: "@yourfacebook",
+            account: "@ngocduongea",
             extra: "User: Trương Ngọc Dương",
-            link: "https://facebook.com/yourprofile"
+            link: "https://www.facebook.com/ngocduongea"
         },
         {
             name: "Discord",
             icon: "src/images/icons/discord-icon.png",
-            account: "@yourdiscord",
+            account: "@ngocduongg",
             link: "#"
         },
         {
             name: "Telegram",
             icon: "src/images/icons/tele-icon.png",
-            account: "@yourtelegram",
-            link: "#"
+            account: "@ngocduongea",
+            link: "https://www.tiktok.com/@ngocduongea"
         },
         {
             name: "TikTok",
             icon: "src/images/icons/douyin-icon.png",
-            account: "@yourtiktok",
-            link: "#"
+            account: "@ngocduongea",
+            link: "https://www.tiktok.com/@ngocduongea"
         },
         {
             name: "Douyin",
             icon: "src/images/icons/douyin-icon.png",
-            account: "@yourdouyin",
-            link: "#"
+            account: "@ngocduongea",
+            link: "https://www.douyin.com/user/MS4wLjABAAAADbISoTKPagAo4nINVouEe_wD0wWeFA01rD8-9EZLDrhEePvKsIaQKegShR-tQilk?from_tab_name=main"
         }
     ];
 

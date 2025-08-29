@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: "Facebook",
             icon: "src/images/icons/fb-icon.png",
-            account: "@ngocduongea",
-            extra: "User: Trương Ngọc Dương",
+            account: "Trương Ngọc Dương",
+            extra: "User: @ngocduongea",
             link: "https://www.facebook.com/ngocduongea"
         },
         {

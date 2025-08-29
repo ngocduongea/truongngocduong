@@ -11,13 +11,13 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: "Discord",
             icon: "src/images/icons/discord-icon.png",
-            account: "@ngocduongg",
+            account: "Telegarm User: @ngocduongg",
             link: "#"
         },
         {
             name: "Telegram",
             icon: "src/images/icons/tele-icon.png",
-            account: "@ngocduongea",
+            account: "Telegarm User: @ngocduongea",
             link: "#"
         },
         {

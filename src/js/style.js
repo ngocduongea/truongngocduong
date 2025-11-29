@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             name: "Youtube",
             icon: "src/images/icons/youtubeicon.png",
-            account: "Youtube User: @DuongNgoc06",
+            account: "Youtube: @DuongNgoc06",
             link: "https://www.youtube.com/@DuongNgoc06"
         },
         {

@@ -15,10 +15,10 @@ document.addEventListener('DOMContentLoaded', () => {
             link: "#"
         },
         {
-            name: "Telegram",
-            icon: "src/images/icons/tele-icon.png",
-            account: "Telegarm User: @ngocduongea",
-            link: "#"
+            name: "Youtube",
+            icon: "src/images/icons/youtubeicon.png",
+            account: "Youtube User: @DuongNgoc06",
+            link: "https://www.youtube.com/@DuongNgoc06"
         },
         {
             name: "TikTok",

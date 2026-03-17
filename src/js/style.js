@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "MoMo",
             icon: "src/images/icons/momo-icon.png",
             qr: "src/images/qr/momo.png",
-            account: "0395882961"
+            account: "Chỉ Có QR"
         },
         {
             name: "ACB",

@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "ACB",
             icon: "src/images/icons/acb-icon.png",
             qr: "src/images/qr/acb.png",
-            account: "20057611"
+            account: "Tạm không hoạt động"
         }
     ];
 

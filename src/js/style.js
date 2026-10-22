@@ -57,10 +57,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // QR
     const qrData = [
         {
-            name: "MB Bank",
-            icon: "src/images/icons/mb-icon.png",
-            qr: "src/images/qr/mb.png",
-            account: "44 6688 9990 9999"
+            name: "VP Bank",
+            icon: "src/images/icons/vp-icon.png",
+            qr: "src/images/qr/vpbank.png",
+            account: "6688990096"
         },
         {
             name: "MoMo",
@@ -69,9 +69,9 @@ document.addEventListener('DOMContentLoaded', () => {
             account: "Chỉ Có QR"
         },
         {
-            name: "ACB",
+            name: "Không tồn tại",
             icon: "src/images/icons/acb-icon.png",
-            qr: "src/images/qr/acb.png",
+            qr: "src/images/qr/qrapp.png",
             account: "Tạm không hoạt động"
         }
     ];
